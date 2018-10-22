@@ -1,0 +1,7 @@
+D:\Cursos.Alura\Cursos.Alura\Cursos.Alura\bin\Debug\Cursos.Alura.exe.config
+D:\Cursos.Alura\Cursos.Alura\Cursos.Alura\bin\Debug\Cursos.Alura.exe
+D:\Cursos.Alura\Cursos.Alura\Cursos.Alura\bin\Debug\Cursos.Alura.pdb
+D:\Cursos.Alura\Cursos.Alura\Cursos.Alura\obj\Debug\Cursos.Alura.csprojAssemblyReference.cache
+D:\Cursos.Alura\Cursos.Alura\Cursos.Alura\obj\Debug\Cursos.Alura.csproj.CoreCompileInputs.cache
+D:\Cursos.Alura\Cursos.Alura\Cursos.Alura\obj\Debug\Cursos.Alura.exe
+D:\Cursos.Alura\Cursos.Alura\Cursos.Alura\obj\Debug\Cursos.Alura.pdb
